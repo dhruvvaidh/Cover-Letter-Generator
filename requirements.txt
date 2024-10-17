@@ -1,0 +1,13 @@
+dotenv
+huggingface
+streamlit
+transformers
+peft
+trl
+bitsandbytes
+langchain_huggingface
+langchain_core
+langchain
+wandb
+torch
+typing
