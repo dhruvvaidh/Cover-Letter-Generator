@@ -11,7 +11,7 @@ If you are using MacOS, some of the packages may not be available, therefore con
 ### Step 2: Setting up HuggingFace
 
 Create a .env file and setup your HuggingFace API Key as: 
-`HUGGINGFACE_API_KEY' = 'your API Key'`
+`HUGGINGFACE_API_KEY = 'your API Key'`
 
 ### Step 3: Run the application:
 
